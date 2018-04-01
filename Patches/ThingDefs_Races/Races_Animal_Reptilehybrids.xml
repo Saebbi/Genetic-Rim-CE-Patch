@@ -91,7 +91,7 @@
 				<xpath>*/ThingDef[defName="GR_Boomsnake"]</xpath>
 				<value>
 				<li Class="CombatExtended.RacePropertiesExtensionCE">
-					<bodyShape>Serpentoid</bodyShape>
+					<bodyShape>Serpentine</bodyShape>
 				</li>
 				</value>
 			</li>
@@ -227,7 +227,7 @@
 				<xpath>*/ThingDef[defName="GR_Spidersnake"]</xpath>
 				<value>
 				<li Class="CombatExtended.RacePropertiesExtensionCE">
-					<bodyShape>Serpentoid</bodyShape>
+					<bodyShape>Serpentine</bodyShape>
 				</li>
 				</value>
 			</li>
