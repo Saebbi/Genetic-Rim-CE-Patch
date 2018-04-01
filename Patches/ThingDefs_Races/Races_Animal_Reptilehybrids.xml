@@ -161,15 +161,7 @@
 							<capacities><li>Scratch</li></capacities>
 							<power>4</power>
 							<cooldownTime>1.65</cooldownTime>
-							<linkedBodyPartsGroup>FrontRightPaw</linkedBodyPartsGroup>
-							<surpriseAttack>
-								<extraMeleeDamages>
-									<li>
-										<def>Stun</def>
-										<amount>16</amount>
-									</li>
-								</extraMeleeDamages>
-							</surpriseAttack>
+							<linkedBodyPartsGroup>Feet</linkedBodyPartsGroup>
 							<armorPenetration>0.2</armorPenetration>
 						</li>
 						<li Class="CombatExtended.ToolCE">

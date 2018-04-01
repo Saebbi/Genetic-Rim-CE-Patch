@@ -578,7 +578,7 @@
 							<capacities><li>GR_LightToxicBite</li></capacities>
 							<power>10</power>
 							<cooldownTime>1.65</cooldownTime>
-							<linkedBodyPartsGroup>FrontLeftPaw</linkedBodyPartsGroup>
+							<linkedBodyPartsGroup>FrontLeftClaws</linkedBodyPartsGroup>
 							<armorPenetration>0.2</armorPenetration>
 						</li>
 						<li Class="CombatExtended.ToolCE">
@@ -586,7 +586,7 @@
 							<capacities><li>GR_LightToxicBite</li></capacities>
 							<power>10</power>
 							<cooldownTime>1.65</cooldownTime>
-							<linkedBodyPartsGroup>FrontRightPaw</linkedBodyPartsGroup>
+							<linkedBodyPartsGroup>FrontRightClaws</linkedBodyPartsGroup>
 							<armorPenetration>0.2</armorPenetration>
 						</li>
 						<li Class="CombatExtended.ToolCE">
