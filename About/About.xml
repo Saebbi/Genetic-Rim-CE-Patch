@@ -2,7 +2,7 @@
 <ModMetaData>
   <name>GeneticRim (CE compatibility patch)</name>
   <author>Saebbi</author>
-  <targetVersion>0.18.0</targetVersion>
+  <targetVersion>1.0.2059</targetVersion>
   <description>
 Makes GeneticRim mod compatible with Combat Extended.
 </description>
