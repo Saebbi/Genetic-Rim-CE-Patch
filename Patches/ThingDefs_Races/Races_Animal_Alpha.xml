@@ -4,7 +4,7 @@
 		<success>Always</success>
 		<operations>
 			<li Class="CombatExtended.PatchOperationFindMod">
-				<modName>GeneticRim b18</modName>
+				<modName>GeneticRim</modName>
 			</li>
 	
 			<li Class="PatchOperationAddModExtension">
@@ -404,8 +404,7 @@
 				<value>
 					<tools>
 						<li Class="CombatExtended.ToolCE">
-							<id>hornBlunt</id>
-							<label>horn</label>
+							<label>horn (Blunt)</label>
 							<capacities><li>Blunt</li></capacities>
 							<power>24</power>
 							<cooldownTime>1.65</cooldownTime>
@@ -413,7 +412,6 @@
 							<armorPenetration>0.25</armorPenetration>
 						</li>
 						<li Class="CombatExtended.ToolCE">
-							<id>hornScratch</id>
 							<label>horn</label>
 							<capacities><li>Cut</li></capacities>
 							<power>22</power>

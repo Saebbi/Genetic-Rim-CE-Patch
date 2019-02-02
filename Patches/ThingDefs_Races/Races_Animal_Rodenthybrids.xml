@@ -4,7 +4,7 @@
 		<success>Always</success>
 		<operations>
 			<li Class="CombatExtended.PatchOperationFindMod">
-				<modName>GeneticRim b18</modName>
+				<modName>GeneticRim</modName>
 			</li>
 	
 			<li Class="PatchOperationAddModExtension">
@@ -17,7 +17,7 @@
 			</li>
 						
 			<li Class="PatchOperationAdd">
-				<xpath>*/ThingDef[defName="GR_Bearalope"]/statBases</xpath>
+				<xpath>*/ThingDef[defName="GR_Bearmole"]/statBases</xpath>
 				<value>
 				<MeleeDodgeChance>0.09</MeleeDodgeChance>
 				<MeleeCritChance>0.2</MeleeCritChance>
@@ -25,7 +25,7 @@
 			</li>
 			
 			<li Class="PatchOperationReplace">
-				<xpath>*/ThingDef[defName="GR_Bearalope"]/tools</xpath>
+				<xpath>*/ThingDef[defName="GR_Bearmole"]/tools</xpath>
 				<value>
 					<tools>
 						<li Class="CombatExtended.ToolCE">
