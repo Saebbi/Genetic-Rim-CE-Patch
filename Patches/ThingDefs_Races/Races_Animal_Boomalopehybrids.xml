@@ -4,7 +4,7 @@
 		<success>Always</success>
 		<operations>
 			<li Class="CombatExtended.PatchOperationFindMod">
-				<modName>GeneticRim</modName>
+				<modName>Genetic Rim</modName>
 			</li>
 	
 			<li Class="PatchOperationAddModExtension">
